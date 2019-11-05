@@ -1,7 +1,6 @@
 # USAGE
 # python test_network.py --model output/simple_neural_network.hdf5 --test-images test_images
 
-# import the necessary packages
 from __future__ import print_function
 from keras.models import load_model
 from imutils import paths
